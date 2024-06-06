@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ShareGPT4V/ShareGPT4V-Resources/master/images/logo_tight.png" style="vertical-align: -10px;" :height="50px" width="50px"> ShareGPT4V: Improving Large Multi-modal Models with Better Captions
 
-⭐️ **Our series works:** [[**MMStar**](https://mmstar-benchmark.github.io/)]  [[**ShareGPT4Video**](https://sharegpt4video.github.io/)]
+⭐️ **Our series works:** [[**MMStar**](https://mmstar-benchmark.github.io/)]  [[**ShareGPT4Video**](https://sharegpt4video.github.io/)]  [[**ShareGPT4Omni**](https://sharegpt4omni.github.io/)]
 
 ---
 
