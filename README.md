@@ -4,7 +4,7 @@
 
 ---
 
-🚀🚀🚀 Official implementation of **ShareGPT4V: Improving Large Multi-modal Models with Better Captions**.
+🚀🚀🚀 Official implementation of **ShareGPT4V: Improving Large Multi-modal Models with Better Captions** in ECCV 2024.
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShareGPT4V/ShareGPT4V-Resources/master/images/teaser.png">
 </p>
@@ -24,6 +24,9 @@
 - 🔥 A superior large multi-modal model, **ShareGPT4V-7B**
 
 ## 📜 News
+
+**[2024/7/2]** Happy to announce that ShareGPT4V is accepted by ECCV 2024!
+
 **[2024/5/8]** We released **[ShareGPT4Video](https://sharegpt4video.github.io/)**, a large-scale video-caption dataset, with **40K** captions annotated by GPT4V and **4.8M** captions annotated by our ShareCaptioner-Video. The total videos last with **300** hours and **3000** hours separately!
 
 **[2024/4/1]** We released **an elite vision-indispensable multi-modal benchmark**, [MMStar](https://github.com/MMStar-Benchmark/MMStar). Have fun!🚀
@@ -184,6 +187,20 @@ If you find our work helpful for your research, please consider giving a star �
   author={Chen, Lin and Li, Jisong and Dong, Xiaoyi and Zhang, Pan and He, Conghui and Wang, Jiaqi and Zhao, Feng and Lin, Dahua},
   journal={arXiv preprint arXiv:2311.12793},
   year={2023}
+}
+
+@article{chen2024sharegpt4video,
+  title={ShareGPT4Video: Improving Video Understanding and Generation with Better Captions},
+  author={Chen, Lin and Wei, Xilin and Li, Jinsong and Dong, Xiaoyi and Zhang, Pan and Zang, Yuhang and Chen, Zehui and Duan, Haodong and Lin, Bin and Tang, Zhenyu and others},
+  journal={arXiv preprint arXiv:2406.04325},
+  year={2024}
+}
+
+@article{chen2024we,
+  title={Are We on the Right Way for Evaluating Large Vision-Language Models?},
+  author={Chen, Lin and Li, Jinsong and Dong, Xiaoyi and Zhang, Pan and Zang, Yuhang and Chen, Zehui and Duan, Haodong and Wang, Jiaqi and Qiao, Yu and Lin, Dahua and others},
+  journal={arXiv preprint arXiv:2403.20330},
+  year={2024}
 }
 ```
 
